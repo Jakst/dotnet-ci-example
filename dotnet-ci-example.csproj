@@ -10,10 +10,13 @@
     <PackageVersion>2.0</PackageVersion>
     <Authors>Vadim Abdrashitov</Authors>
     <Description>Test project</Description>
-    <PackageProjectUrl>https://github.com/jincod/dotnet-ci-example</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageTags>example</PackageTags>
+
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/jakst/dotnet-ci-example</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/jakst/dotnet-ci-example</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
