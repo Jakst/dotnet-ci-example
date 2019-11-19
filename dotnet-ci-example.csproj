@@ -5,8 +5,8 @@
     <RootNamespace>dotnet_ci_example</RootNamespace>
   </PropertyGroup>
 
-   <PropertyGroup>
-    <PackageId>dotnet-ci-example</PackageId>
+  <PropertyGroup>
+    <PackageId>My.Example</PackageId>
     <PackageVersion>1.0.7-alpha</PackageVersion>
     <Authors>Vadim Abdrashitov</Authors>
     <Description>Test project</Description>
